@@ -14,8 +14,8 @@
 
 development:
  password: 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
- theme_id: "134210879744"
- store: https://gcm-test-store.myshopify.com/
+ theme_id: "133616566528"
+ store: gcm-test-store.myshopify.com
  ignore_files:
     - settings_data.json
     
@@ -25,4 +25,4 @@ development:
 #   theme_id: "live"
 #   store: your-shop.myshopify.com
 #   ignore_files:
-    # - settings_data.json # Uncomment this line to avoid resetting theme settings
+#     - settings_data.json # Uncomment this line to avoid resetting theme settings
